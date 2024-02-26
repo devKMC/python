@@ -1,0 +1,892 @@
+_PassengerId_Survived_Pclass_Name_Sex_Age_SibSp_Parch_Ticket_Fare_Cabin_Embarked
+0_1_0_3_Braund, Mr. Owen Harris_male_22.0_1_0_A/5 21171_7.25__S
+1_2_1_1_Cumings, Mrs. John Bradley (Florence Briggs Thayer)_female_38.0_1_0_PC 17599_71.2833_C85_C
+2_3_1_3_Heikkinen, Miss. Laina_female_26.0_0_0_STON/O2. 3101282_7.925__S
+3_4_1_1_Futrelle, Mrs. Jacques Heath (Lily May Peel)_female_35.0_1_0_113803_53.1_C123_S
+4_5_0_3_Allen, Mr. William Henry_male_35.0_0_0_373450_8.05__S
+5_6_0_3_Moran, Mr. James_male__0_0_330877_8.4583__Q
+6_7_0_1_McCarthy, Mr. Timothy J_male_54.0_0_0_17463_51.8625_E46_S
+7_8_0_3_Palsson, Master. Gosta Leonard_male_2.0_3_1_349909_21.075__S
+8_9_1_3_Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)_female_27.0_0_2_347742_11.1333__S
+9_10_1_2_Nasser, Mrs. Nicholas (Adele Achem)_female_14.0_1_0_237736_30.0708__C
+10_11_1_3_Sandstrom, Miss. Marguerite Rut_female_4.0_1_1_PP 9549_16.7_G6_S
+11_12_1_1_Bonnell, Miss. Elizabeth_female_58.0_0_0_113783_26.55_C103_S
+12_13_0_3_Saundercock, Mr. William Henry_male_20.0_0_0_A/5. 2151_8.05__S
+13_14_0_3_Andersson, Mr. Anders Johan_male_39.0_1_5_347082_31.275__S
+14_15_0_3_Vestrom, Miss. Hulda Amanda Adolfina_female_14.0_0_0_350406_7.8542__S
+15_16_1_2_Hewlett, Mrs. (Mary D Kingcome) _female_55.0_0_0_248706_16.0__S
+16_17_0_3_Rice, Master. Eugene_male_2.0_4_1_382652_29.125__Q
+17_18_1_2_Williams, Mr. Charles Eugene_male__0_0_244373_13.0__S
+18_19_0_3_Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)_female_31.0_1_0_345763_18.0__S
+19_20_1_3_Masselmani, Mrs. Fatima_female__0_0_2649_7.225__C
+20_21_0_2_Fynney, Mr. Joseph J_male_35.0_0_0_239865_26.0__S
+21_22_1_2_Beesley, Mr. Lawrence_male_34.0_0_0_248698_13.0_D56_S
+22_23_1_3_"McGowan, Miss. Anna ""Annie"""_female_15.0_0_0_330923_8.0292__Q
+23_24_1_1_Sloper, Mr. William Thompson_male_28.0_0_0_113788_35.5_A6_S
+24_25_0_3_Palsson, Miss. Torborg Danira_female_8.0_3_1_349909_21.075__S
+25_26_1_3_Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)_female_38.0_1_5_347077_31.3875__S
+26_27_0_3_Emir, Mr. Farred Chehab_male__0_0_2631_7.225__C
+27_28_0_1_Fortune, Mr. Charles Alexander_male_19.0_3_2_19950_263.0_C23 C25 C27_S
+28_29_1_3_"O'Dwyer, Miss. Ellen ""Nellie"""_female__0_0_330959_7.8792__Q
+29_30_0_3_Todoroff, Mr. Lalio_male__0_0_349216_7.8958__S
+30_31_0_1_Uruchurtu, Don. Manuel E_male_40.0_0_0_PC 17601_27.7208__C
+31_32_1_1_Spencer, Mrs. William Augustus (Marie Eugenie)_female__1_0_PC 17569_146.5208_B78_C
+32_33_1_3_Glynn, Miss. Mary Agatha_female__0_0_335677_7.75__Q
+33_34_0_2_Wheadon, Mr. Edward H_male_66.0_0_0_C.A. 24579_10.5__S
+34_35_0_1_Meyer, Mr. Edgar Joseph_male_28.0_1_0_PC 17604_82.1708__C
+35_36_0_1_Holverson, Mr. Alexander Oskar_male_42.0_1_0_113789_52.0__S
+36_37_1_3_Mamee, Mr. Hanna_male__0_0_2677_7.2292__C
+37_38_0_3_Cann, Mr. Ernest Charles_male_21.0_0_0_A./5. 2152_8.05__S
+38_39_0_3_Vander Planke, Miss. Augusta Maria_female_18.0_2_0_345764_18.0__S
+39_40_1_3_Nicola-Yarred, Miss. Jamila_female_14.0_1_0_2651_11.2417__C
+40_41_0_3_Ahlin, Mrs. Johan (Johanna Persdotter Larsson)_female_40.0_1_0_7546_9.475__S
+41_42_0_2_Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)_female_27.0_1_0_11668_21.0__S
+42_43_0_3_Kraeff, Mr. Theodor_male__0_0_349253_7.8958__C
+43_44_1_2_Laroche, Miss. Simonne Marie Anne Andree_female_3.0_1_2_SC/Paris 2123_41.5792__C
+44_45_1_3_Devaney, Miss. Margaret Delia_female_19.0_0_0_330958_7.8792__Q
+45_46_0_3_Rogers, Mr. William John_male__0_0_S.C./A.4. 23567_8.05__S
+46_47_0_3_Lennon, Mr. Denis_male__1_0_370371_15.5__Q
+47_48_1_3_O'Driscoll, Miss. Bridget_female__0_0_14311_7.75__Q
+48_49_0_3_Samaan, Mr. Youssef_male__2_0_2662_21.6792__C
+49_50_0_3_Arnold-Franchi, Mrs. Josef (Josefine Franchi)_female_18.0_1_0_349237_17.8__S
+50_51_0_3_Panula, Master. Juha Niilo_male_7.0_4_1_3101295_39.6875__S
+51_52_0_3_Nosworthy, Mr. Richard Cater_male_21.0_0_0_A/4. 39886_7.8__S
+52_53_1_1_Harper, Mrs. Henry Sleeper (Myna Haxtun)_female_49.0_1_0_PC 17572_76.7292_D33_C
+53_54_1_2_Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)_female_29.0_1_0_2926_26.0__S
+54_55_0_1_Ostby, Mr. Engelhart Cornelius_male_65.0_0_1_113509_61.9792_B30_C
+55_56_1_1_Woolner, Mr. Hugh_male__0_0_19947_35.5_C52_S
+56_57_1_2_Rugg, Miss. Emily_female_21.0_0_0_C.A. 31026_10.5__S
+57_58_0_3_Novel, Mr. Mansouer_male_28.5_0_0_2697_7.2292__C
+58_59_1_2_West, Miss. Constance Mirium_female_5.0_1_2_C.A. 34651_27.75__S
+59_60_0_3_Goodwin, Master. William Frederick_male_11.0_5_2_CA 2144_46.9__S
+60_61_0_3_Sirayanian, Mr. Orsen_male_22.0_0_0_2669_7.2292__C
+61_62_1_1_Icard, Miss. Amelie_female_38.0_0_0_113572_80.0_B28_
+62_63_0_1_Harris, Mr. Henry Birkhardt_male_45.0_1_0_36973_83.475_C83_S
+63_64_0_3_Skoog, Master. Harald_male_4.0_3_2_347088_27.9__S
+64_65_0_1_Stewart, Mr. Albert A_male__0_0_PC 17605_27.7208__C
+65_66_1_3_Moubarek, Master. Gerios_male__1_1_2661_15.2458__C
+66_67_1_2_Nye, Mrs. (Elizabeth Ramell)_female_29.0_0_0_C.A. 29395_10.5_F33_S
+67_68_0_3_Crease, Mr. Ernest James_male_19.0_0_0_S.P. 3464_8.1583__S
+68_69_1_3_Andersson, Miss. Erna Alexandra_female_17.0_4_2_3101281_7.925__S
+69_70_0_3_Kink, Mr. Vincenz_male_26.0_2_0_315151_8.6625__S
+70_71_0_2_Jenkin, Mr. Stephen Curnow_male_32.0_0_0_C.A. 33111_10.5__S
+71_72_0_3_Goodwin, Miss. Lillian Amy_female_16.0_5_2_CA 2144_46.9__S
+72_73_0_2_Hood, Mr. Ambrose Jr_male_21.0_0_0_S.O.C. 14879_73.5__S
+73_74_0_3_Chronopoulos, Mr. Apostolos_male_26.0_1_0_2680_14.4542__C
+74_75_1_3_Bing, Mr. Lee_male_32.0_0_0_1601_56.4958__S
+75_76_0_3_Moen, Mr. Sigurd Hansen_male_25.0_0_0_348123_7.65_F G73_S
+76_77_0_3_Staneff, Mr. Ivan_male__0_0_349208_7.8958__S
+77_78_0_3_Moutal, Mr. Rahamin Haim_male__0_0_374746_8.05__S
+78_79_1_2_Caldwell, Master. Alden Gates_male_0.83_0_2_248738_29.0__S
+79_80_1_3_Dowdell, Miss. Elizabeth_female_30.0_0_0_364516_12.475__S
+80_81_0_3_Waelens, Mr. Achille_male_22.0_0_0_345767_9.0__S
+81_82_1_3_Sheerlinck, Mr. Jan Baptist_male_29.0_0_0_345779_9.5__S
+82_83_1_3_McDermott, Miss. Brigdet Delia_female__0_0_330932_7.7875__Q
+83_84_0_1_Carrau, Mr. Francisco M_male_28.0_0_0_113059_47.1__S
+84_85_1_2_Ilett, Miss. Bertha_female_17.0_0_0_SO/C 14885_10.5__S
+85_86_1_3_Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)_female_33.0_3_0_3101278_15.85__S
+86_87_0_3_Ford, Mr. William Neal_male_16.0_1_3_W./C. 6608_34.375__S
+87_88_0_3_Slocovski, Mr. Selman Francis_male__0_0_SOTON/OQ 392086_8.05__S
+88_89_1_1_Fortune, Miss. Mabel Helen_female_23.0_3_2_19950_263.0_C23 C25 C27_S
+89_90_0_3_Celotti, Mr. Francesco_male_24.0_0_0_343275_8.05__S
+90_91_0_3_Christmann, Mr. Emil_male_29.0_0_0_343276_8.05__S
+91_92_0_3_Andreasson, Mr. Paul Edvin_male_20.0_0_0_347466_7.8542__S
+92_93_0_1_Chaffee, Mr. Herbert Fuller_male_46.0_1_0_W.E.P. 5734_61.175_E31_S
+93_94_0_3_Dean, Mr. Bertram Frank_male_26.0_1_2_C.A. 2315_20.575__S
+94_95_0_3_Coxon, Mr. Daniel_male_59.0_0_0_364500_7.25__S
+95_96_0_3_Shorney, Mr. Charles Joseph_male__0_0_374910_8.05__S
+96_97_0_1_Goldschmidt, Mr. George B_male_71.0_0_0_PC 17754_34.6542_A5_C
+97_98_1_1_Greenfield, Mr. William Bertram_male_23.0_0_1_PC 17759_63.3583_D10 D12_C
+98_99_1_2_Doling, Mrs. John T (Ada Julia Bone)_female_34.0_0_1_231919_23.0__S
+99_100_0_2_Kantor, Mr. Sinai_male_34.0_1_0_244367_26.0__S
+100_101_0_3_Petranec, Miss. Matilda_female_28.0_0_0_349245_7.8958__S
+101_102_0_3_"Petroff, Mr. Pastcho (""Pentcho"")"_male__0_0_349215_7.8958__S
+102_103_0_1_White, Mr. Richard Frasar_male_21.0_0_1_35281_77.2875_D26_S
+103_104_0_3_Johansson, Mr. Gustaf Joel_male_33.0_0_0_7540_8.6542__S
+104_105_0_3_Gustafsson, Mr. Anders Vilhelm_male_37.0_2_0_3101276_7.925__S
+105_106_0_3_Mionoff, Mr. Stoytcho_male_28.0_0_0_349207_7.8958__S
+106_107_1_3_Salkjelsvik, Miss. Anna Kristine_female_21.0_0_0_343120_7.65__S
+107_108_1_3_Moss, Mr. Albert Johan_male__0_0_312991_7.775__S
+108_109_0_3_Rekic, Mr. Tido_male_38.0_0_0_349249_7.8958__S
+109_110_1_3_Moran, Miss. Bertha_female__1_0_371110_24.15__Q
+110_111_0_1_Porter, Mr. Walter Chamberlain_male_47.0_0_0_110465_52.0_C110_S
+111_112_0_3_Zabour, Miss. Hileni_female_14.5_1_0_2665_14.4542__C
+112_113_0_3_Barton, Mr. David John_male_22.0_0_0_324669_8.05__S
+113_114_0_3_Jussila, Miss. Katriina_female_20.0_1_0_4136_9.825__S
+114_115_0_3_Attalah, Miss. Malake_female_17.0_0_0_2627_14.4583__C
+115_116_0_3_Pekoniemi, Mr. Edvard_male_21.0_0_0_STON/O 2. 3101294_7.925__S
+116_117_0_3_Connors, Mr. Patrick_male_70.5_0_0_370369_7.75__Q
+117_118_0_2_Turpin, Mr. William John Robert_male_29.0_1_0_11668_21.0__S
+118_119_0_1_Baxter, Mr. Quigg Edmond_male_24.0_0_1_PC 17558_247.5208_B58 B60_C
+119_120_0_3_Andersson, Miss. Ellis Anna Maria_female_2.0_4_2_347082_31.275__S
+120_121_0_2_Hickman, Mr. Stanley George_male_21.0_2_0_S.O.C. 14879_73.5__S
+121_122_0_3_Moore, Mr. Leonard Charles_male__0_0_A4. 54510_8.05__S
+122_123_0_2_Nasser, Mr. Nicholas_male_32.5_1_0_237736_30.0708__C
+123_124_1_2_Webber, Miss. Susan_female_32.5_0_0_27267_13.0_E101_S
+124_125_0_1_White, Mr. Percival Wayland_male_54.0_0_1_35281_77.2875_D26_S
+125_126_1_3_Nicola-Yarred, Master. Elias_male_12.0_1_0_2651_11.2417__C
+126_127_0_3_McMahon, Mr. Martin_male__0_0_370372_7.75__Q
+127_128_1_3_Madsen, Mr. Fridtjof Arne_male_24.0_0_0_C 17369_7.1417__S
+128_129_1_3_Peter, Miss. Anna_female__1_1_2668_22.3583_F E69_C
+129_130_0_3_Ekstrom, Mr. Johan_male_45.0_0_0_347061_6.975__S
+130_131_0_3_Drazenoic, Mr. Jozef_male_33.0_0_0_349241_7.8958__C
+131_132_0_3_Coelho, Mr. Domingos Fernandeo_male_20.0_0_0_SOTON/O.Q. 3101307_7.05__S
+132_133_0_3_Robins, Mrs. Alexander A (Grace Charity Laury)_female_47.0_1_0_A/5. 3337_14.5__S
+133_134_1_2_Weisz, Mrs. Leopold (Mathilde Francoise Pede)_female_29.0_1_0_228414_26.0__S
+134_135_0_2_Sobey, Mr. Samuel James Hayden_male_25.0_0_0_C.A. 29178_13.0__S
+135_136_0_2_Richard, Mr. Emile_male_23.0_0_0_SC/PARIS 2133_15.0458__C
+136_137_1_1_Newsom, Miss. Helen Monypeny_female_19.0_0_2_11752_26.2833_D47_S
+137_138_0_1_Futrelle, Mr. Jacques Heath_male_37.0_1_0_113803_53.1_C123_S
+138_139_0_3_Osen, Mr. Olaf Elon_male_16.0_0_0_7534_9.2167__S
+139_140_0_1_Giglio, Mr. Victor_male_24.0_0_0_PC 17593_79.2_B86_C
+140_141_0_3_Boulos, Mrs. Joseph (Sultana)_female__0_2_2678_15.2458__C
+141_142_1_3_Nysten, Miss. Anna Sofia_female_22.0_0_0_347081_7.75__S
+142_143_1_3_Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)_female_24.0_1_0_STON/O2. 3101279_15.85__S
+143_144_0_3_Burke, Mr. Jeremiah_male_19.0_0_0_365222_6.75__Q
+144_145_0_2_Andrew, Mr. Edgardo Samuel_male_18.0_0_0_231945_11.5__S
+145_146_0_2_Nicholls, Mr. Joseph Charles_male_19.0_1_1_C.A. 33112_36.75__S
+146_147_1_3_"Andersson, Mr. August Edvard (""Wennerstrom"")"_male_27.0_0_0_350043_7.7958__S
+147_148_0_3_"Ford, Miss. Robina Maggie ""Ruby"""_female_9.0_2_2_W./C. 6608_34.375__S
+148_149_0_2_"Navratil, Mr. Michel (""Louis M Hoffman"")"_male_36.5_0_2_230080_26.0_F2_S
+149_150_0_2_Byles, Rev. Thomas Roussel Davids_male_42.0_0_0_244310_13.0__S
+150_151_0_2_Bateman, Rev. Robert James_male_51.0_0_0_S.O.P. 1166_12.525__S
+151_152_1_1_Pears, Mrs. Thomas (Edith Wearne)_female_22.0_1_0_113776_66.6_C2_S
+152_153_0_3_Meo, Mr. Alfonzo_male_55.5_0_0_A.5. 11206_8.05__S
+153_154_0_3_van Billiard, Mr. Austin Blyler_male_40.5_0_2_A/5. 851_14.5__S
+154_155_0_3_Olsen, Mr. Ole Martin_male__0_0_Fa 265302_7.3125__S
+155_156_0_1_Williams, Mr. Charles Duane_male_51.0_0_1_PC 17597_61.3792__C
+156_157_1_3_"Gilnagh, Miss. Katherine ""Katie"""_female_16.0_0_0_35851_7.7333__Q
+157_158_0_3_Corn, Mr. Harry_male_30.0_0_0_SOTON/OQ 392090_8.05__S
+158_159_0_3_Smiljanic, Mr. Mile_male__0_0_315037_8.6625__S
+159_160_0_3_Sage, Master. Thomas Henry_male__8_2_CA. 2343_69.55__S
+160_161_0_3_Cribb, Mr. John Hatfield_male_44.0_0_1_371362_16.1__S
+161_162_1_2_"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)"_female_40.0_0_0_C.A. 33595_15.75__S
+162_163_0_3_Bengtsson, Mr. John Viktor_male_26.0_0_0_347068_7.775__S
+163_164_0_3_Calic, Mr. Jovo_male_17.0_0_0_315093_8.6625__S
+164_165_0_3_Panula, Master. Eino Viljami_male_1.0_4_1_3101295_39.6875__S
+165_166_1_3_"Goldsmith, Master. Frank John William ""Frankie"""_male_9.0_0_2_363291_20.525__S
+166_167_1_1_Chibnall, Mrs. (Edith Martha Bowerman)_female__0_1_113505_55.0_E33_S
+167_168_0_3_Skoog, Mrs. William (Anna Bernhardina Karlsson)_female_45.0_1_4_347088_27.9__S
+168_169_0_1_Baumann, Mr. John D_male__0_0_PC 17318_25.925__S
+169_170_0_3_Ling, Mr. Lee_male_28.0_0_0_1601_56.4958__S
+170_171_0_1_Van der hoef, Mr. Wyckoff_male_61.0_0_0_111240_33.5_B19_S
+171_172_0_3_Rice, Master. Arthur_male_4.0_4_1_382652_29.125__Q
+172_173_1_3_Johnson, Miss. Eleanor Ileen_female_1.0_1_1_347742_11.1333__S
+173_174_0_3_Sivola, Mr. Antti Wilhelm_male_21.0_0_0_STON/O 2. 3101280_7.925__S
+174_175_0_1_Smith, Mr. James Clinch_male_56.0_0_0_17764_30.6958_A7_C
+175_176_0_3_Klasen, Mr. Klas Albin_male_18.0_1_1_350404_7.8542__S
+176_177_0_3_Lefebre, Master. Henry Forbes_male__3_1_4133_25.4667__S
+177_178_0_1_Isham, Miss. Ann Elizabeth_female_50.0_0_0_PC 17595_28.7125_C49_C
+178_179_0_2_Hale, Mr. Reginald_male_30.0_0_0_250653_13.0__S
+179_180_0_3_Leonard, Mr. Lionel_male_36.0_0_0_LINE_0.0__S
+180_181_0_3_Sage, Miss. Constance Gladys_female__8_2_CA. 2343_69.55__S
+181_182_0_2_Pernot, Mr. Rene_male__0_0_SC/PARIS 2131_15.05__C
+182_183_0_3_Asplund, Master. Clarence Gustaf Hugo_male_9.0_4_2_347077_31.3875__S
+183_184_1_2_Becker, Master. Richard F_male_1.0_2_1_230136_39.0_F4_S
+184_185_1_3_Kink-Heilmann, Miss. Luise Gretchen_female_4.0_0_2_315153_22.025__S
+185_186_0_1_Rood, Mr. Hugh Roscoe_male__0_0_113767_50.0_A32_S
+186_187_1_3_"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)"_female__1_0_370365_15.5__Q
+187_188_1_1_"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")"_male_45.0_0_0_111428_26.55__S
+188_189_0_3_Bourke, Mr. John_male_40.0_1_1_364849_15.5__Q
+189_190_0_3_Turcin, Mr. Stjepan_male_36.0_0_0_349247_7.8958__S
+190_191_1_2_Pinsky, Mrs. (Rosa)_female_32.0_0_0_234604_13.0__S
+191_192_0_2_Carbines, Mr. William_male_19.0_0_0_28424_13.0__S
+192_193_1_3_Andersen-Jensen, Miss. Carla Christine Nielsine_female_19.0_1_0_350046_7.8542__S
+193_194_1_2_Navratil, Master. Michel M_male_3.0_1_1_230080_26.0_F2_S
+194_195_1_1_Brown, Mrs. James Joseph (Margaret Tobin)_female_44.0_0_0_PC 17610_27.7208_B4_C
+195_196_1_1_Lurette, Miss. Elise_female_58.0_0_0_PC 17569_146.5208_B80_C
+196_197_0_3_Mernagh, Mr. Robert_male__0_0_368703_7.75__Q
+197_198_0_3_Olsen, Mr. Karl Siegwart Andreas_male_42.0_0_1_4579_8.4042__S
+198_199_1_3_"Madigan, Miss. Margaret ""Maggie"""_female__0_0_370370_7.75__Q
+199_200_0_2_"Yrois, Miss. Henriette (""Mrs Harbeck"")"_female_24.0_0_0_248747_13.0__S
+200_201_0_3_Vande Walle, Mr. Nestor Cyriel_male_28.0_0_0_345770_9.5__S
+201_202_0_3_Sage, Mr. Frederick_male__8_2_CA. 2343_69.55__S
+202_203_0_3_Johanson, Mr. Jakob Alfred_male_34.0_0_0_3101264_6.4958__S
+203_204_0_3_Youseff, Mr. Gerious_male_45.5_0_0_2628_7.225__C
+204_205_1_3_"Cohen, Mr. Gurshon ""Gus"""_male_18.0_0_0_A/5 3540_8.05__S
+205_206_0_3_Strom, Miss. Telma Matilda_female_2.0_0_1_347054_10.4625_G6_S
+206_207_0_3_Backstrom, Mr. Karl Alfred_male_32.0_1_0_3101278_15.85__S
+207_208_1_3_Albimona, Mr. Nassef Cassem_male_26.0_0_0_2699_18.7875__C
+208_209_1_3_"Carr, Miss. Helen ""Ellen"""_female_16.0_0_0_367231_7.75__Q
+209_210_1_1_Blank, Mr. Henry_male_40.0_0_0_112277_31.0_A31_C
+210_211_0_3_Ali, Mr. Ahmed_male_24.0_0_0_SOTON/O.Q. 3101311_7.05__S
+211_212_1_2_Cameron, Miss. Clear Annie_female_35.0_0_0_F.C.C. 13528_21.0__S
+212_213_0_3_Perkin, Mr. John Henry_male_22.0_0_0_A/5 21174_7.25__S
+213_214_0_2_Givard, Mr. Hans Kristensen_male_30.0_0_0_250646_13.0__S
+214_215_0_3_Kiernan, Mr. Philip_male__1_0_367229_7.75__Q
+215_216_1_1_Newell, Miss. Madeleine_female_31.0_1_0_35273_113.275_D36_C
+216_217_1_3_Honkanen, Miss. Eliina_female_27.0_0_0_STON/O2. 3101283_7.925__S
+217_218_0_2_Jacobsohn, Mr. Sidney Samuel_male_42.0_1_0_243847_27.0__S
+218_219_1_1_Bazzani, Miss. Albina_female_32.0_0_0_11813_76.2917_D15_C
+219_220_0_2_Harris, Mr. Walter_male_30.0_0_0_W/C 14208_10.5__S
+220_221_1_3_Sunderland, Mr. Victor Francis_male_16.0_0_0_SOTON/OQ 392089_8.05__S
+221_222_0_2_Bracken, Mr. James H_male_27.0_0_0_220367_13.0__S
+222_223_0_3_Green, Mr. George Henry_male_51.0_0_0_21440_8.05__S
+223_224_0_3_Nenkoff, Mr. Christo_male__0_0_349234_7.8958__S
+224_225_1_1_Hoyt, Mr. Frederick Maxfield_male_38.0_1_0_19943_90.0_C93_S
+225_226_0_3_Berglund, Mr. Karl Ivar Sven_male_22.0_0_0_PP 4348_9.35__S
+226_227_1_2_Mellors, Mr. William John_male_19.0_0_0_SW/PP 751_10.5__S
+227_228_0_3_"Lovell, Mr. John Hall (""Henry"")"_male_20.5_0_0_A/5 21173_7.25__S
+228_229_0_2_Fahlstrom, Mr. Arne Jonas_male_18.0_0_0_236171_13.0__S
+229_230_0_3_Lefebre, Miss. Mathilde_female__3_1_4133_25.4667__S
+230_231_1_1_Harris, Mrs. Henry Birkhardt (Irene Wallach)_female_35.0_1_0_36973_83.475_C83_S
+231_232_0_3_Larsson, Mr. Bengt Edvin_male_29.0_0_0_347067_7.775__S
+232_233_0_2_Sjostedt, Mr. Ernst Adolf_male_59.0_0_0_237442_13.5__S
+233_234_1_3_Asplund, Miss. Lillian Gertrud_female_5.0_4_2_347077_31.3875__S
+234_235_0_2_Leyson, Mr. Robert William Norman_male_24.0_0_0_C.A. 29566_10.5__S
+235_236_0_3_Harknett, Miss. Alice Phoebe_female__0_0_W./C. 6609_7.55__S
+236_237_0_2_Hold, Mr. Stephen_male_44.0_1_0_26707_26.0__S
+237_238_1_2_"Collyer, Miss. Marjorie ""Lottie"""_female_8.0_0_2_C.A. 31921_26.25__S
+238_239_0_2_Pengelly, Mr. Frederick William_male_19.0_0_0_28665_10.5__S
+239_240_0_2_Hunt, Mr. George Henry_male_33.0_0_0_SCO/W 1585_12.275__S
+240_241_0_3_Zabour, Miss. Thamine_female__1_0_2665_14.4542__C
+241_242_1_3_"Murphy, Miss. Katherine ""Kate"""_female__1_0_367230_15.5__Q
+242_243_0_2_Coleridge, Mr. Reginald Charles_male_29.0_0_0_W./C. 14263_10.5__S
+243_244_0_3_Maenpaa, Mr. Matti Alexanteri_male_22.0_0_0_STON/O 2. 3101275_7.125__S
+244_245_0_3_Attalah, Mr. Sleiman_male_30.0_0_0_2694_7.225__C
+245_246_0_1_Minahan, Dr. William Edward_male_44.0_2_0_19928_90.0_C78_Q
+246_247_0_3_Lindahl, Miss. Agda Thorilda Viktoria_female_25.0_0_0_347071_7.775__S
+247_248_1_2_Hamalainen, Mrs. William (Anna)_female_24.0_0_2_250649_14.5__S
+248_249_1_1_Beckwith, Mr. Richard Leonard_male_37.0_1_1_11751_52.5542_D35_S
+249_250_0_2_Carter, Rev. Ernest Courtenay_male_54.0_1_0_244252_26.0__S
+250_251_0_3_Reed, Mr. James George_male__0_0_362316_7.25__S
+251_252_0_3_Strom, Mrs. Wilhelm (Elna Matilda Persson)_female_29.0_1_1_347054_10.4625_G6_S
+252_253_0_1_Stead, Mr. William Thomas_male_62.0_0_0_113514_26.55_C87_S
+253_254_0_3_Lobb, Mr. William Arthur_male_30.0_1_0_A/5. 3336_16.1__S
+254_255_0_3_Rosblom, Mrs. Viktor (Helena Wilhelmina)_female_41.0_0_2_370129_20.2125__S
+255_256_1_3_Touma, Mrs. Darwis (Hanne Youssef Razi)_female_29.0_0_2_2650_15.2458__C
+256_257_1_1_Thorne, Mrs. Gertrude Maybelle_female__0_0_PC 17585_79.2__C
+257_258_1_1_Cherry, Miss. Gladys_female_30.0_0_0_110152_86.5_B77_S
+258_259_1_1_Ward, Miss. Anna_female_35.0_0_0_PC 17755_512.3292__C
+259_260_1_2_Parrish, Mrs. (Lutie Davis)_female_50.0_0_1_230433_26.0__S
+260_261_0_3_Smith, Mr. Thomas_male__0_0_384461_7.75__Q
+261_262_1_3_Asplund, Master. Edvin Rojj Felix_male_3.0_4_2_347077_31.3875__S
+262_263_0_1_Taussig, Mr. Emil_male_52.0_1_1_110413_79.65_E67_S
+263_264_0_1_Harrison, Mr. William_male_40.0_0_0_112059_0.0_B94_S
+264_265_0_3_Henry, Miss. Delia_female__0_0_382649_7.75__Q
+265_266_0_2_Reeves, Mr. David_male_36.0_0_0_C.A. 17248_10.5__S
+266_267_0_3_Panula, Mr. Ernesti Arvid_male_16.0_4_1_3101295_39.6875__S
+267_268_1_3_Persson, Mr. Ernst Ulrik_male_25.0_1_0_347083_7.775__S
+268_269_1_1_Graham, Mrs. William Thompson (Edith Junkins)_female_58.0_0_1_PC 17582_153.4625_C125_S
+269_270_1_1_Bissette, Miss. Amelia_female_35.0_0_0_PC 17760_135.6333_C99_S
+270_271_0_1_Cairns, Mr. Alexander_male__0_0_113798_31.0__S
+271_272_1_3_Tornquist, Mr. William Henry_male_25.0_0_0_LINE_0.0__S
+272_273_1_2_Mellinger, Mrs. (Elizabeth Anne Maidment)_female_41.0_0_1_250644_19.5__S
+273_274_0_1_Natsch, Mr. Charles H_male_37.0_0_1_PC 17596_29.7_C118_C
+274_275_1_3_"Healy, Miss. Hanora ""Nora"""_female__0_0_370375_7.75__Q
+275_276_1_1_Andrews, Miss. Kornelia Theodosia_female_63.0_1_0_13502_77.9583_D7_S
+276_277_0_3_Lindblom, Miss. Augusta Charlotta_female_45.0_0_0_347073_7.75__S
+277_278_0_2_"Parkes, Mr. Francis ""Frank"""_male__0_0_239853_0.0__S
+278_279_0_3_Rice, Master. Eric_male_7.0_4_1_382652_29.125__Q
+279_280_1_3_Abbott, Mrs. Stanton (Rosa Hunt)_female_35.0_1_1_C.A. 2673_20.25__S
+280_281_0_3_Duane, Mr. Frank_male_65.0_0_0_336439_7.75__Q
+281_282_0_3_Olsson, Mr. Nils Johan Goransson_male_28.0_0_0_347464_7.8542__S
+282_283_0_3_de Pelsmaeker, Mr. Alfons_male_16.0_0_0_345778_9.5__S
+283_284_1_3_Dorking, Mr. Edward Arthur_male_19.0_0_0_A/5. 10482_8.05__S
+284_285_0_1_Smith, Mr. Richard William_male__0_0_113056_26.0_A19_S
+285_286_0_3_Stankovic, Mr. Ivan_male_33.0_0_0_349239_8.6625__C
+286_287_1_3_de Mulder, Mr. Theodore_male_30.0_0_0_345774_9.5__S
+287_288_0_3_Naidenoff, Mr. Penko_male_22.0_0_0_349206_7.8958__S
+288_289_1_2_Hosono, Mr. Masabumi_male_42.0_0_0_237798_13.0__S
+289_290_1_3_Connolly, Miss. Kate_female_22.0_0_0_370373_7.75__Q
+290_291_1_1_"Barber, Miss. Ellen ""Nellie"""_female_26.0_0_0_19877_78.85__S
+291_292_1_1_Bishop, Mrs. Dickinson H (Helen Walton)_female_19.0_1_0_11967_91.0792_B49_C
+292_293_0_2_Levy, Mr. Rene Jacques_male_36.0_0_0_SC/Paris 2163_12.875_D_C
+293_294_0_3_Haas, Miss. Aloisia_female_24.0_0_0_349236_8.85__S
+294_295_0_3_Mineff, Mr. Ivan_male_24.0_0_0_349233_7.8958__S
+295_296_0_1_Lewy, Mr. Ervin G_male__0_0_PC 17612_27.7208__C
+296_297_0_3_Hanna, Mr. Mansour_male_23.5_0_0_2693_7.2292__C
+297_298_0_1_Allison, Miss. Helen Loraine_female_2.0_1_2_113781_151.55_C22 C26_S
+298_299_1_1_Saalfeld, Mr. Adolphe_male__0_0_19988_30.5_C106_S
+299_300_1_1_Baxter, Mrs. James (Helene DeLaudeniere Chaput)_female_50.0_0_1_PC 17558_247.5208_B58 B60_C
+300_301_1_3_"Kelly, Miss. Anna Katherine ""Annie Kate"""_female__0_0_9234_7.75__Q
+301_302_1_3_McCoy, Mr. Bernard_male__2_0_367226_23.25__Q
+302_303_0_3_Johnson, Mr. William Cahoone Jr_male_19.0_0_0_LINE_0.0__S
+303_304_1_2_Keane, Miss. Nora A_female__0_0_226593_12.35_E101_Q
+304_305_0_3_"Williams, Mr. Howard Hugh ""Harry"""_male__0_0_A/5 2466_8.05__S
+305_306_1_1_Allison, Master. Hudson Trevor_male_0.92_1_2_113781_151.55_C22 C26_S
+306_307_1_1_Fleming, Miss. Margaret_female__0_0_17421_110.8833__C
+307_308_1_1_Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)_female_17.0_1_0_PC 17758_108.9_C65_C
+308_309_0_2_Abelson, Mr. Samuel_male_30.0_1_0_P/PP 3381_24.0__C
+309_310_1_1_Francatelli, Miss. Laura Mabel_female_30.0_0_0_PC 17485_56.9292_E36_C
+310_311_1_1_Hays, Miss. Margaret Bechstein_female_24.0_0_0_11767_83.1583_C54_C
+311_312_1_1_Ryerson, Miss. Emily Borie_female_18.0_2_2_PC 17608_262.375_B57 B59 B63 B66_C
+312_313_0_2_Lahtinen, Mrs. William (Anna Sylfven)_female_26.0_1_1_250651_26.0__S
+313_314_0_3_Hendekovic, Mr. Ignjac_male_28.0_0_0_349243_7.8958__S
+314_315_0_2_Hart, Mr. Benjamin_male_43.0_1_1_F.C.C. 13529_26.25__S
+315_316_1_3_Nilsson, Miss. Helmina Josefina_female_26.0_0_0_347470_7.8542__S
+316_317_1_2_Kantor, Mrs. Sinai (Miriam Sternin)_female_24.0_1_0_244367_26.0__S
+317_318_0_2_Moraweck, Dr. Ernest_male_54.0_0_0_29011_14.0__S
+318_319_1_1_Wick, Miss. Mary Natalie_female_31.0_0_2_36928_164.8667_C7_S
+319_320_1_1_Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)_female_40.0_1_1_16966_134.5_E34_C
+320_321_0_3_Dennis, Mr. Samuel_male_22.0_0_0_A/5 21172_7.25__S
+321_322_0_3_Danoff, Mr. Yoto_male_27.0_0_0_349219_7.8958__S
+322_323_1_2_Slayter, Miss. Hilda Mary_female_30.0_0_0_234818_12.35__Q
+323_324_1_2_Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)_female_22.0_1_1_248738_29.0__S
+324_325_0_3_Sage, Mr. George John Jr_male__8_2_CA. 2343_69.55__S
+325_326_1_1_Young, Miss. Marie Grice_female_36.0_0_0_PC 17760_135.6333_C32_C
+326_327_0_3_Nysveen, Mr. Johan Hansen_male_61.0_0_0_345364_6.2375__S
+327_328_1_2_Ball, Mrs. (Ada E Hall)_female_36.0_0_0_28551_13.0_D_S
+328_329_1_3_Goldsmith, Mrs. Frank John (Emily Alice Brown)_female_31.0_1_1_363291_20.525__S
+329_330_1_1_Hippach, Miss. Jean Gertrude_female_16.0_0_1_111361_57.9792_B18_C
+330_331_1_3_McCoy, Miss. Agnes_female__2_0_367226_23.25__Q
+331_332_0_1_Partner, Mr. Austen_male_45.5_0_0_113043_28.5_C124_S
+332_333_0_1_Graham, Mr. George Edward_male_38.0_0_1_PC 17582_153.4625_C91_S
+333_334_0_3_Vander Planke, Mr. Leo Edmondus_male_16.0_2_0_345764_18.0__S
+334_335_1_1_Frauenthal, Mrs. Henry William (Clara Heinsheimer)_female__1_0_PC 17611_133.65__S
+335_336_0_3_Denkoff, Mr. Mitto_male__0_0_349225_7.8958__S
+336_337_0_1_Pears, Mr. Thomas Clinton_male_29.0_1_0_113776_66.6_C2_S
+337_338_1_1_Burns, Miss. Elizabeth Margaret_female_41.0_0_0_16966_134.5_E40_C
+338_339_1_3_Dahl, Mr. Karl Edwart_male_45.0_0_0_7598_8.05__S
+339_340_0_1_Blackwell, Mr. Stephen Weart_male_45.0_0_0_113784_35.5_T_S
+340_341_1_2_Navratil, Master. Edmond Roger_male_2.0_1_1_230080_26.0_F2_S
+341_342_1_1_Fortune, Miss. Alice Elizabeth_female_24.0_3_2_19950_263.0_C23 C25 C27_S
+342_343_0_2_Collander, Mr. Erik Gustaf_male_28.0_0_0_248740_13.0__S
+343_344_0_2_Sedgwick, Mr. Charles Frederick Waddington_male_25.0_0_0_244361_13.0__S
+344_345_0_2_Fox, Mr. Stanley Hubert_male_36.0_0_0_229236_13.0__S
+345_346_1_2_"Brown, Miss. Amelia ""Mildred"""_female_24.0_0_0_248733_13.0_F33_S
+346_347_1_2_Smith, Miss. Marion Elsie_female_40.0_0_0_31418_13.0__S
+347_348_1_3_Davison, Mrs. Thomas Henry (Mary E Finck)_female__1_0_386525_16.1__S
+348_349_1_3_"Coutts, Master. William Loch ""William"""_male_3.0_1_1_C.A. 37671_15.9__S
+349_350_0_3_Dimic, Mr. Jovan_male_42.0_0_0_315088_8.6625__S
+350_351_0_3_Odahl, Mr. Nils Martin_male_23.0_0_0_7267_9.225__S
+351_352_0_1_Williams-Lambert, Mr. Fletcher Fellows_male__0_0_113510_35.0_C128_S
+352_353_0_3_Elias, Mr. Tannous_male_15.0_1_1_2695_7.2292__C
+353_354_0_3_Arnold-Franchi, Mr. Josef_male_25.0_1_0_349237_17.8__S
+354_355_0_3_Yousif, Mr. Wazli_male__0_0_2647_7.225__C
+355_356_0_3_Vanden Steen, Mr. Leo Peter_male_28.0_0_0_345783_9.5__S
+356_357_1_1_Bowerman, Miss. Elsie Edith_female_22.0_0_1_113505_55.0_E33_S
+357_358_0_2_Funk, Miss. Annie Clemmer_female_38.0_0_0_237671_13.0__S
+358_359_1_3_McGovern, Miss. Mary_female__0_0_330931_7.8792__Q
+359_360_1_3_"Mockler, Miss. Helen Mary ""Ellie"""_female__0_0_330980_7.8792__Q
+360_361_0_3_Skoog, Mr. Wilhelm_male_40.0_1_4_347088_27.9__S
+361_362_0_2_del Carlo, Mr. Sebastiano_male_29.0_1_0_SC/PARIS 2167_27.7208__C
+362_363_0_3_Barbara, Mrs. (Catherine David)_female_45.0_0_1_2691_14.4542__C
+363_364_0_3_Asim, Mr. Adola_male_35.0_0_0_SOTON/O.Q. 3101310_7.05__S
+364_365_0_3_O'Brien, Mr. Thomas_male__1_0_370365_15.5__Q
+365_366_0_3_Adahl, Mr. Mauritz Nils Martin_male_30.0_0_0_C 7076_7.25__S
+366_367_1_1_Warren, Mrs. Frank Manley (Anna Sophia Atkinson)_female_60.0_1_0_110813_75.25_D37_C
+367_368_1_3_Moussa, Mrs. (Mantoura Boulos)_female__0_0_2626_7.2292__C
+368_369_1_3_Jermyn, Miss. Annie_female__0_0_14313_7.75__Q
+369_370_1_1_Aubart, Mme. Leontine Pauline_female_24.0_0_0_PC 17477_69.3_B35_C
+370_371_1_1_Harder, Mr. George Achilles_male_25.0_1_0_11765_55.4417_E50_C
+371_372_0_3_Wiklund, Mr. Jakob Alfred_male_18.0_1_0_3101267_6.4958__S
+372_373_0_3_Beavan, Mr. William Thomas_male_19.0_0_0_323951_8.05__S
+373_374_0_1_Ringhini, Mr. Sante_male_22.0_0_0_PC 17760_135.6333__C
+374_375_0_3_Palsson, Miss. Stina Viola_female_3.0_3_1_349909_21.075__S
+375_376_1_1_Meyer, Mrs. Edgar Joseph (Leila Saks)_female__1_0_PC 17604_82.1708__C
+376_377_1_3_Landergren, Miss. Aurora Adelia_female_22.0_0_0_C 7077_7.25__S
+377_378_0_1_Widener, Mr. Harry Elkins_male_27.0_0_2_113503_211.5_C82_C
+378_379_0_3_Betros, Mr. Tannous_male_20.0_0_0_2648_4.0125__C
+379_380_0_3_Gustafsson, Mr. Karl Gideon_male_19.0_0_0_347069_7.775__S
+380_381_1_1_Bidois, Miss. Rosalie_female_42.0_0_0_PC 17757_227.525__C
+381_382_1_3_"Nakid, Miss. Maria (""Mary"")"_female_1.0_0_2_2653_15.7417__C
+382_383_0_3_Tikkanen, Mr. Juho_male_32.0_0_0_STON/O 2. 3101293_7.925__S
+383_384_1_1_Holverson, Mrs. Alexander Oskar (Mary Aline Towner)_female_35.0_1_0_113789_52.0__S
+384_385_0_3_Plotcharsky, Mr. Vasil_male__0_0_349227_7.8958__S
+385_386_0_2_Davies, Mr. Charles Henry_male_18.0_0_0_S.O.C. 14879_73.5__S
+386_387_0_3_Goodwin, Master. Sidney Leonard_male_1.0_5_2_CA 2144_46.9__S
+387_388_1_2_Buss, Miss. Kate_female_36.0_0_0_27849_13.0__S
+388_389_0_3_Sadlier, Mr. Matthew_male__0_0_367655_7.7292__Q
+389_390_1_2_Lehmann, Miss. Bertha_female_17.0_0_0_SC 1748_12.0__C
+390_391_1_1_Carter, Mr. William Ernest_male_36.0_1_2_113760_120.0_B96 B98_S
+391_392_1_3_Jansson, Mr. Carl Olof_male_21.0_0_0_350034_7.7958__S
+392_393_0_3_Gustafsson, Mr. Johan Birger_male_28.0_2_0_3101277_7.925__S
+393_394_1_1_Newell, Miss. Marjorie_female_23.0_1_0_35273_113.275_D36_C
+394_395_1_3_Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)_female_24.0_0_2_PP 9549_16.7_G6_S
+395_396_0_3_Johansson, Mr. Erik_male_22.0_0_0_350052_7.7958__S
+396_397_0_3_Olsson, Miss. Elina_female_31.0_0_0_350407_7.8542__S
+397_398_0_2_McKane, Mr. Peter David_male_46.0_0_0_28403_26.0__S
+398_399_0_2_Pain, Dr. Alfred_male_23.0_0_0_244278_10.5__S
+399_400_1_2_Trout, Mrs. William H (Jessie L)_female_28.0_0_0_240929_12.65__S
+400_401_1_3_Niskanen, Mr. Juha_male_39.0_0_0_STON/O 2. 3101289_7.925__S
+401_402_0_3_Adams, Mr. John_male_26.0_0_0_341826_8.05__S
+402_403_0_3_Jussila, Miss. Mari Aina_female_21.0_1_0_4137_9.825__S
+403_404_0_3_Hakkarainen, Mr. Pekka Pietari_male_28.0_1_0_STON/O2. 3101279_15.85__S
+404_405_0_3_Oreskovic, Miss. Marija_female_20.0_0_0_315096_8.6625__S
+405_406_0_2_Gale, Mr. Shadrach_male_34.0_1_0_28664_21.0__S
+406_407_0_3_Widegren, Mr. Carl/Charles Peter_male_51.0_0_0_347064_7.75__S
+407_408_1_2_Richards, Master. William Rowe_male_3.0_1_1_29106_18.75__S
+408_409_0_3_Birkeland, Mr. Hans Martin Monsen_male_21.0_0_0_312992_7.775__S
+409_410_0_3_Lefebre, Miss. Ida_female__3_1_4133_25.4667__S
+410_411_0_3_Sdycoff, Mr. Todor_male__0_0_349222_7.8958__S
+411_412_0_3_Hart, Mr. Henry_male__0_0_394140_6.8583__Q
+412_413_1_1_Minahan, Miss. Daisy E_female_33.0_1_0_19928_90.0_C78_Q
+413_414_0_2_Cunningham, Mr. Alfred Fleming_male__0_0_239853_0.0__S
+414_415_1_3_Sundman, Mr. Johan Julian_male_44.0_0_0_STON/O 2. 3101269_7.925__S
+415_416_0_3_Meek, Mrs. Thomas (Annie Louise Rowley)_female__0_0_343095_8.05__S
+416_417_1_2_Drew, Mrs. James Vivian (Lulu Thorne Christian)_female_34.0_1_1_28220_32.5__S
+417_418_1_2_Silven, Miss. Lyyli Karoliina_female_18.0_0_2_250652_13.0__S
+418_419_0_2_Matthews, Mr. William John_male_30.0_0_0_28228_13.0__S
+419_420_0_3_Van Impe, Miss. Catharina_female_10.0_0_2_345773_24.15__S
+420_421_0_3_Gheorgheff, Mr. Stanio_male__0_0_349254_7.8958__C
+421_422_0_3_Charters, Mr. David_male_21.0_0_0_A/5. 13032_7.7333__Q
+422_423_0_3_Zimmerman, Mr. Leo_male_29.0_0_0_315082_7.875__S
+423_424_0_3_Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)_female_28.0_1_1_347080_14.4__S
+424_425_0_3_Rosblom, Mr. Viktor Richard_male_18.0_1_1_370129_20.2125__S
+425_426_0_3_Wiseman, Mr. Phillippe_male__0_0_A/4. 34244_7.25__S
+426_427_1_2_Clarke, Mrs. Charles V (Ada Maria Winfield)_female_28.0_1_0_2003_26.0__S
+427_428_1_2_"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")"_female_19.0_0_0_250655_26.0__S
+428_429_0_3_Flynn, Mr. James_male__0_0_364851_7.75__Q
+429_430_1_3_Pickard, Mr. Berk (Berk Trembisky)_male_32.0_0_0_SOTON/O.Q. 392078_8.05_E10_S
+430_431_1_1_Bjornstrom-Steffansson, Mr. Mauritz Hakan_male_28.0_0_0_110564_26.55_C52_S
+431_432_1_3_Thorneycroft, Mrs. Percival (Florence Kate White)_female__1_0_376564_16.1__S
+432_433_1_2_Louch, Mrs. Charles Alexander (Alice Adelaide Slow)_female_42.0_1_0_SC/AH 3085_26.0__S
+433_434_0_3_Kallio, Mr. Nikolai Erland_male_17.0_0_0_STON/O 2. 3101274_7.125__S
+434_435_0_1_Silvey, Mr. William Baird_male_50.0_1_0_13507_55.9_E44_S
+435_436_1_1_Carter, Miss. Lucile Polk_female_14.0_1_2_113760_120.0_B96 B98_S
+436_437_0_3_"Ford, Miss. Doolina Margaret ""Daisy"""_female_21.0_2_2_W./C. 6608_34.375__S
+437_438_1_2_Richards, Mrs. Sidney (Emily Hocking)_female_24.0_2_3_29106_18.75__S
+438_439_0_1_Fortune, Mr. Mark_male_64.0_1_4_19950_263.0_C23 C25 C27_S
+439_440_0_2_Kvillner, Mr. Johan Henrik Johannesson_male_31.0_0_0_C.A. 18723_10.5__S
+440_441_1_2_Hart, Mrs. Benjamin (Esther Ada Bloomfield)_female_45.0_1_1_F.C.C. 13529_26.25__S
+441_442_0_3_Hampe, Mr. Leon_male_20.0_0_0_345769_9.5__S
+442_443_0_3_Petterson, Mr. Johan Emil_male_25.0_1_0_347076_7.775__S
+443_444_1_2_Reynaldo, Ms. Encarnacion_female_28.0_0_0_230434_13.0__S
+444_445_1_3_Johannesen-Bratthammer, Mr. Bernt_male__0_0_65306_8.1125__S
+445_446_1_1_Dodge, Master. Washington_male_4.0_0_2_33638_81.8583_A34_S
+446_447_1_2_Mellinger, Miss. Madeleine Violet_female_13.0_0_1_250644_19.5__S
+447_448_1_1_Seward, Mr. Frederic Kimber_male_34.0_0_0_113794_26.55__S
+448_449_1_3_Baclini, Miss. Marie Catherine_female_5.0_2_1_2666_19.2583__C
+449_450_1_1_Peuchen, Major. Arthur Godfrey_male_52.0_0_0_113786_30.5_C104_S
+450_451_0_2_West, Mr. Edwy Arthur_male_36.0_1_2_C.A. 34651_27.75__S
+451_452_0_3_Hagland, Mr. Ingvald Olai Olsen_male__1_0_65303_19.9667__S
+452_453_0_1_Foreman, Mr. Benjamin Laventall_male_30.0_0_0_113051_27.75_C111_C
+453_454_1_1_Goldenberg, Mr. Samuel L_male_49.0_1_0_17453_89.1042_C92_C
+454_455_0_3_Peduzzi, Mr. Joseph_male__0_0_A/5 2817_8.05__S
+455_456_1_3_Jalsevac, Mr. Ivan_male_29.0_0_0_349240_7.8958__C
+456_457_0_1_Millet, Mr. Francis Davis_male_65.0_0_0_13509_26.55_E38_S
+457_458_1_1_Kenyon, Mrs. Frederick R (Marion)_female__1_0_17464_51.8625_D21_S
+458_459_1_2_Toomey, Miss. Ellen_female_50.0_0_0_F.C.C. 13531_10.5__S
+459_460_0_3_O'Connor, Mr. Maurice_male__0_0_371060_7.75__Q
+460_461_1_1_Anderson, Mr. Harry_male_48.0_0_0_19952_26.55_E12_S
+461_462_0_3_Morley, Mr. William_male_34.0_0_0_364506_8.05__S
+462_463_0_1_Gee, Mr. Arthur H_male_47.0_0_0_111320_38.5_E63_S
+463_464_0_2_Milling, Mr. Jacob Christian_male_48.0_0_0_234360_13.0__S
+464_465_0_3_Maisner, Mr. Simon_male__0_0_A/S 2816_8.05__S
+465_466_0_3_Goncalves, Mr. Manuel Estanslas_male_38.0_0_0_SOTON/O.Q. 3101306_7.05__S
+466_467_0_2_Campbell, Mr. William_male__0_0_239853_0.0__S
+467_468_0_1_Smart, Mr. John Montgomery_male_56.0_0_0_113792_26.55__S
+468_469_0_3_Scanlan, Mr. James_male__0_0_36209_7.725__Q
+469_470_1_3_Baclini, Miss. Helene Barbara_female_0.75_2_1_2666_19.2583__C
+470_471_0_3_Keefe, Mr. Arthur_male__0_0_323592_7.25__S
+471_472_0_3_Cacic, Mr. Luka_male_38.0_0_0_315089_8.6625__S
+472_473_1_2_West, Mrs. Edwy Arthur (Ada Mary Worth)_female_33.0_1_2_C.A. 34651_27.75__S
+473_474_1_2_Jerwan, Mrs. Amin S (Marie Marthe Thuillard)_female_23.0_0_0_SC/AH Basle 541_13.7917_D_C
+474_475_0_3_Strandberg, Miss. Ida Sofia_female_22.0_0_0_7553_9.8375__S
+475_476_0_1_Clifford, Mr. George Quincy_male__0_0_110465_52.0_A14_S
+476_477_0_2_Renouf, Mr. Peter Henry_male_34.0_1_0_31027_21.0__S
+477_478_0_3_Braund, Mr. Lewis Richard_male_29.0_1_0_3460_7.0458__S
+478_479_0_3_Karlsson, Mr. Nils August_male_22.0_0_0_350060_7.5208__S
+479_480_1_3_Hirvonen, Miss. Hildur E_female_2.0_0_1_3101298_12.2875__S
+480_481_0_3_Goodwin, Master. Harold Victor_male_9.0_5_2_CA 2144_46.9__S
+481_482_0_2_"Frost, Mr. Anthony Wood ""Archie"""_male__0_0_239854_0.0__S
+482_483_0_3_Rouse, Mr. Richard Henry_male_50.0_0_0_A/5 3594_8.05__S
+483_484_1_3_Turkula, Mrs. (Hedwig)_female_63.0_0_0_4134_9.5875__S
+484_485_1_1_Bishop, Mr. Dickinson H_male_25.0_1_0_11967_91.0792_B49_C
+485_486_0_3_Lefebre, Miss. Jeannie_female__3_1_4133_25.4667__S
+486_487_1_1_Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)_female_35.0_1_0_19943_90.0_C93_S
+487_488_0_1_Kent, Mr. Edward Austin_male_58.0_0_0_11771_29.7_B37_C
+488_489_0_3_Somerton, Mr. Francis William_male_30.0_0_0_A.5. 18509_8.05__S
+489_490_1_3_"Coutts, Master. Eden Leslie ""Neville"""_male_9.0_1_1_C.A. 37671_15.9__S
+490_491_0_3_Hagland, Mr. Konrad Mathias Reiersen_male__1_0_65304_19.9667__S
+491_492_0_3_Windelov, Mr. Einar_male_21.0_0_0_SOTON/OQ 3101317_7.25__S
+492_493_0_1_Molson, Mr. Harry Markland_male_55.0_0_0_113787_30.5_C30_S
+493_494_0_1_Artagaveytia, Mr. Ramon_male_71.0_0_0_PC 17609_49.5042__C
+494_495_0_3_Stanley, Mr. Edward Roland_male_21.0_0_0_A/4 45380_8.05__S
+495_496_0_3_Yousseff, Mr. Gerious_male__0_0_2627_14.4583__C
+496_497_1_1_Eustis, Miss. Elizabeth Mussey_female_54.0_1_0_36947_78.2667_D20_C
+497_498_0_3_Shellard, Mr. Frederick William_male__0_0_C.A. 6212_15.1__S
+498_499_0_1_Allison, Mrs. Hudson J C (Bessie Waldo Daniels)_female_25.0_1_2_113781_151.55_C22 C26_S
+499_500_0_3_Svensson, Mr. Olof_male_24.0_0_0_350035_7.7958__S
+500_501_0_3_Calic, Mr. Petar_male_17.0_0_0_315086_8.6625__S
+501_502_0_3_Canavan, Miss. Mary_female_21.0_0_0_364846_7.75__Q
+502_503_0_3_O'Sullivan, Miss. Bridget Mary_female__0_0_330909_7.6292__Q
+503_504_0_3_Laitinen, Miss. Kristina Sofia_female_37.0_0_0_4135_9.5875__S
+504_505_1_1_Maioni, Miss. Roberta_female_16.0_0_0_110152_86.5_B79_S
+505_506_0_1_Penasco y Castellana, Mr. Victor de Satode_male_18.0_1_0_PC 17758_108.9_C65_C
+506_507_1_2_Quick, Mrs. Frederick Charles (Jane Richards)_female_33.0_0_2_26360_26.0__S
+507_508_1_1_"Bradley, Mr. George (""George Arthur Brayton"")"_male__0_0_111427_26.55__S
+508_509_0_3_Olsen, Mr. Henry Margido_male_28.0_0_0_C 4001_22.525__S
+509_510_1_3_Lang, Mr. Fang_male_26.0_0_0_1601_56.4958__S
+510_511_1_3_Daly, Mr. Eugene Patrick_male_29.0_0_0_382651_7.75__Q
+511_512_0_3_Webber, Mr. James_male__0_0_SOTON/OQ 3101316_8.05__S
+512_513_1_1_McGough, Mr. James Robert_male_36.0_0_0_PC 17473_26.2875_E25_S
+513_514_1_1_Rothschild, Mrs. Martin (Elizabeth L. Barrett)_female_54.0_1_0_PC 17603_59.4__C
+514_515_0_3_Coleff, Mr. Satio_male_24.0_0_0_349209_7.4958__S
+515_516_0_1_Walker, Mr. William Anderson_male_47.0_0_0_36967_34.0208_D46_S
+516_517_1_2_Lemore, Mrs. (Amelia Milley)_female_34.0_0_0_C.A. 34260_10.5_F33_S
+517_518_0_3_Ryan, Mr. Patrick_male__0_0_371110_24.15__Q
+518_519_1_2_"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)"_female_36.0_1_0_226875_26.0__S
+519_520_0_3_Pavlovic, Mr. Stefo_male_32.0_0_0_349242_7.8958__S
+520_521_1_1_Perreault, Miss. Anne_female_30.0_0_0_12749_93.5_B73_S
+521_522_0_3_Vovk, Mr. Janko_male_22.0_0_0_349252_7.8958__S
+522_523_0_3_Lahoud, Mr. Sarkis_male__0_0_2624_7.225__C
+523_524_1_1_Hippach, Mrs. Louis Albert (Ida Sophia Fischer)_female_44.0_0_1_111361_57.9792_B18_C
+524_525_0_3_Kassem, Mr. Fared_male__0_0_2700_7.2292__C
+525_526_0_3_Farrell, Mr. James_male_40.5_0_0_367232_7.75__Q
+526_527_1_2_Ridsdale, Miss. Lucy_female_50.0_0_0_W./C. 14258_10.5__S
+527_528_0_1_Farthing, Mr. John_male__0_0_PC 17483_221.7792_C95_S
+528_529_0_3_Salonen, Mr. Johan Werner_male_39.0_0_0_3101296_7.925__S
+529_530_0_2_Hocking, Mr. Richard George_male_23.0_2_1_29104_11.5__S
+530_531_1_2_Quick, Miss. Phyllis May_female_2.0_1_1_26360_26.0__S
+531_532_0_3_Toufik, Mr. Nakli_male__0_0_2641_7.2292__C
+532_533_0_3_Elias, Mr. Joseph Jr_male_17.0_1_1_2690_7.2292__C
+533_534_1_3_Peter, Mrs. Catherine (Catherine Rizk)_female__0_2_2668_22.3583__C
+534_535_0_3_Cacic, Miss. Marija_female_30.0_0_0_315084_8.6625__S
+535_536_1_2_Hart, Miss. Eva Miriam_female_7.0_0_2_F.C.C. 13529_26.25__S
+536_537_0_1_Butt, Major. Archibald Willingham_male_45.0_0_0_113050_26.55_B38_S
+537_538_1_1_LeRoy, Miss. Bertha_female_30.0_0_0_PC 17761_106.425__C
+538_539_0_3_Risien, Mr. Samuel Beard_male__0_0_364498_14.5__S
+539_540_1_1_Frolicher, Miss. Hedwig Margaritha_female_22.0_0_2_13568_49.5_B39_C
+540_541_1_1_Crosby, Miss. Harriet R_female_36.0_0_2_WE/P 5735_71.0_B22_S
+541_542_0_3_Andersson, Miss. Ingeborg Constanzia_female_9.0_4_2_347082_31.275__S
+542_543_0_3_Andersson, Miss. Sigrid Elisabeth_female_11.0_4_2_347082_31.275__S
+543_544_1_2_Beane, Mr. Edward_male_32.0_1_0_2908_26.0__S
+544_545_0_1_Douglas, Mr. Walter Donald_male_50.0_1_0_PC 17761_106.425_C86_C
+545_546_0_1_Nicholson, Mr. Arthur Ernest_male_64.0_0_0_693_26.0__S
+546_547_1_2_Beane, Mrs. Edward (Ethel Clarke)_female_19.0_1_0_2908_26.0__S
+547_548_1_2_Padro y Manent, Mr. Julian_male__0_0_SC/PARIS 2146_13.8625__C
+548_549_0_3_Goldsmith, Mr. Frank John_male_33.0_1_1_363291_20.525__S
+549_550_1_2_Davies, Master. John Morgan Jr_male_8.0_1_1_C.A. 33112_36.75__S
+550_551_1_1_Thayer, Mr. John Borland Jr_male_17.0_0_2_17421_110.8833_C70_C
+551_552_0_2_Sharp, Mr. Percival James R_male_27.0_0_0_244358_26.0__S
+552_553_0_3_O'Brien, Mr. Timothy_male__0_0_330979_7.8292__Q
+553_554_1_3_"Leeni, Mr. Fahim (""Philip Zenni"")"_male_22.0_0_0_2620_7.225__C
+554_555_1_3_Ohman, Miss. Velin_female_22.0_0_0_347085_7.775__S
+555_556_0_1_Wright, Mr. George_male_62.0_0_0_113807_26.55__S
+556_557_1_1_"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")"_female_48.0_1_0_11755_39.6_A16_C
+557_558_0_1_Robbins, Mr. Victor_male__0_0_PC 17757_227.525__C
+558_559_1_1_Taussig, Mrs. Emil (Tillie Mandelbaum)_female_39.0_1_1_110413_79.65_E67_S
+559_560_1_3_de Messemaeker, Mrs. Guillaume Joseph (Emma)_female_36.0_1_0_345572_17.4__S
+560_561_0_3_Morrow, Mr. Thomas Rowan_male__0_0_372622_7.75__Q
+561_562_0_3_Sivic, Mr. Husein_male_40.0_0_0_349251_7.8958__S
+562_563_0_2_Norman, Mr. Robert Douglas_male_28.0_0_0_218629_13.5__S
+563_564_0_3_Simmons, Mr. John_male__0_0_SOTON/OQ 392082_8.05__S
+564_565_0_3_Meanwell, Miss. (Marion Ogden)_female__0_0_SOTON/O.Q. 392087_8.05__S
+565_566_0_3_Davies, Mr. Alfred J_male_24.0_2_0_A/4 48871_24.15__S
+566_567_0_3_Stoytcheff, Mr. Ilia_male_19.0_0_0_349205_7.8958__S
+567_568_0_3_Palsson, Mrs. Nils (Alma Cornelia Berglund)_female_29.0_0_4_349909_21.075__S
+568_569_0_3_Doharr, Mr. Tannous_male__0_0_2686_7.2292__C
+569_570_1_3_Jonsson, Mr. Carl_male_32.0_0_0_350417_7.8542__S
+570_571_1_2_Harris, Mr. George_male_62.0_0_0_S.W./PP 752_10.5__S
+571_572_1_1_Appleton, Mrs. Edward Dale (Charlotte Lamson)_female_53.0_2_0_11769_51.4792_C101_S
+572_573_1_1_"Flynn, Mr. John Irwin (""Irving"")"_male_36.0_0_0_PC 17474_26.3875_E25_S
+573_574_1_3_Kelly, Miss. Mary_female__0_0_14312_7.75__Q
+574_575_0_3_Rush, Mr. Alfred George John_male_16.0_0_0_A/4. 20589_8.05__S
+575_576_0_3_Patchett, Mr. George_male_19.0_0_0_358585_14.5__S
+576_577_1_2_Garside, Miss. Ethel_female_34.0_0_0_243880_13.0__S
+577_578_1_1_Silvey, Mrs. William Baird (Alice Munger)_female_39.0_1_0_13507_55.9_E44_S
+578_579_0_3_Caram, Mrs. Joseph (Maria Elias)_female__1_0_2689_14.4583__C
+579_580_1_3_Jussila, Mr. Eiriik_male_32.0_0_0_STON/O 2. 3101286_7.925__S
+580_581_1_2_Christy, Miss. Julie Rachel_female_25.0_1_1_237789_30.0__S
+581_582_1_1_Thayer, Mrs. John Borland (Marian Longstreth Morris)_female_39.0_1_1_17421_110.8833_C68_C
+582_583_0_2_Downton, Mr. William James_male_54.0_0_0_28403_26.0__S
+583_584_0_1_Ross, Mr. John Hugo_male_36.0_0_0_13049_40.125_A10_C
+584_585_0_3_Paulner, Mr. Uscher_male__0_0_3411_8.7125__C
+585_586_1_1_Taussig, Miss. Ruth_female_18.0_0_2_110413_79.65_E68_S
+586_587_0_2_Jarvis, Mr. John Denzil_male_47.0_0_0_237565_15.0__S
+587_588_1_1_Frolicher-Stehli, Mr. Maxmillian_male_60.0_1_1_13567_79.2_B41_C
+588_589_0_3_Gilinski, Mr. Eliezer_male_22.0_0_0_14973_8.05__S
+589_590_0_3_Murdlin, Mr. Joseph_male__0_0_A./5. 3235_8.05__S
+590_591_0_3_Rintamaki, Mr. Matti_male_35.0_0_0_STON/O 2. 3101273_7.125__S
+591_592_1_1_Stephenson, Mrs. Walter Bertram (Martha Eustis)_female_52.0_1_0_36947_78.2667_D20_C
+592_593_0_3_Elsbury, Mr. William James_male_47.0_0_0_A/5 3902_7.25__S
+593_594_0_3_Bourke, Miss. Mary_female__0_2_364848_7.75__Q
+594_595_0_2_Chapman, Mr. John Henry_male_37.0_1_0_SC/AH 29037_26.0__S
+595_596_0_3_Van Impe, Mr. Jean Baptiste_male_36.0_1_1_345773_24.15__S
+596_597_1_2_Leitch, Miss. Jessie Wills_female__0_0_248727_33.0__S
+597_598_0_3_Johnson, Mr. Alfred_male_49.0_0_0_LINE_0.0__S
+598_599_0_3_Boulos, Mr. Hanna_male__0_0_2664_7.225__C
+599_600_1_1_"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")"_male_49.0_1_0_PC 17485_56.9292_A20_C
+600_601_1_2_Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)_female_24.0_2_1_243847_27.0__S
+601_602_0_3_Slabenoff, Mr. Petco_male__0_0_349214_7.8958__S
+602_603_0_1_Harrington, Mr. Charles H_male__0_0_113796_42.4__S
+603_604_0_3_Torber, Mr. Ernst William_male_44.0_0_0_364511_8.05__S
+604_605_1_1_"Homer, Mr. Harry (""Mr E Haven"")"_male_35.0_0_0_111426_26.55__C
+605_606_0_3_Lindell, Mr. Edvard Bengtsson_male_36.0_1_0_349910_15.55__S
+606_607_0_3_Karaic, Mr. Milan_male_30.0_0_0_349246_7.8958__S
+607_608_1_1_Daniel, Mr. Robert Williams_male_27.0_0_0_113804_30.5__S
+608_609_1_2_Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)_female_22.0_1_2_SC/Paris 2123_41.5792__C
+609_610_1_1_Shutes, Miss. Elizabeth W_female_40.0_0_0_PC 17582_153.4625_C125_S
+610_611_0_3_Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)_female_39.0_1_5_347082_31.275__S
+611_612_0_3_Jardin, Mr. Jose Neto_male__0_0_SOTON/O.Q. 3101305_7.05__S
+612_613_1_3_Murphy, Miss. Margaret Jane_female__1_0_367230_15.5__Q
+613_614_0_3_Horgan, Mr. John_male__0_0_370377_7.75__Q
+614_615_0_3_Brocklebank, Mr. William Alfred_male_35.0_0_0_364512_8.05__S
+615_616_1_2_Herman, Miss. Alice_female_24.0_1_2_220845_65.0__S
+616_617_0_3_Danbom, Mr. Ernst Gilbert_male_34.0_1_1_347080_14.4__S
+617_618_0_3_Lobb, Mrs. William Arthur (Cordelia K Stanlick)_female_26.0_1_0_A/5. 3336_16.1__S
+618_619_1_2_Becker, Miss. Marion Louise_female_4.0_2_1_230136_39.0_F4_S
+619_620_0_2_Gavey, Mr. Lawrence_male_26.0_0_0_31028_10.5__S
+620_621_0_3_Yasbeck, Mr. Antoni_male_27.0_1_0_2659_14.4542__C
+621_622_1_1_Kimball, Mr. Edwin Nelson Jr_male_42.0_1_0_11753_52.5542_D19_S
+622_623_1_3_Nakid, Mr. Sahid_male_20.0_1_1_2653_15.7417__C
+623_624_0_3_Hansen, Mr. Henry Damsgaard_male_21.0_0_0_350029_7.8542__S
+624_625_0_3_"Bowen, Mr. David John ""Dai"""_male_21.0_0_0_54636_16.1__S
+625_626_0_1_Sutton, Mr. Frederick_male_61.0_0_0_36963_32.3208_D50_S
+626_627_0_2_Kirkland, Rev. Charles Leonard_male_57.0_0_0_219533_12.35__Q
+627_628_1_1_Longley, Miss. Gretchen Fiske_female_21.0_0_0_13502_77.9583_D9_S
+628_629_0_3_Bostandyeff, Mr. Guentcho_male_26.0_0_0_349224_7.8958__S
+629_630_0_3_O'Connell, Mr. Patrick D_male__0_0_334912_7.7333__Q
+630_631_1_1_Barkworth, Mr. Algernon Henry Wilson_male_80.0_0_0_27042_30.0_A23_S
+631_632_0_3_Lundahl, Mr. Johan Svensson_male_51.0_0_0_347743_7.0542__S
+632_633_1_1_Stahelin-Maeglin, Dr. Max_male_32.0_0_0_13214_30.5_B50_C
+633_634_0_1_Parr, Mr. William Henry Marsh_male__0_0_112052_0.0__S
+634_635_0_3_Skoog, Miss. Mabel_female_9.0_3_2_347088_27.9__S
+635_636_1_2_Davis, Miss. Mary_female_28.0_0_0_237668_13.0__S
+636_637_0_3_Leinonen, Mr. Antti Gustaf_male_32.0_0_0_STON/O 2. 3101292_7.925__S
+637_638_0_2_Collyer, Mr. Harvey_male_31.0_1_1_C.A. 31921_26.25__S
+638_639_0_3_Panula, Mrs. Juha (Maria Emilia Ojala)_female_41.0_0_5_3101295_39.6875__S
+639_640_0_3_Thorneycroft, Mr. Percival_male__1_0_376564_16.1__S
+640_641_0_3_Jensen, Mr. Hans Peder_male_20.0_0_0_350050_7.8542__S
+641_642_1_1_Sagesser, Mlle. Emma_female_24.0_0_0_PC 17477_69.3_B35_C
+642_643_0_3_Skoog, Miss. Margit Elizabeth_female_2.0_3_2_347088_27.9__S
+643_644_1_3_Foo, Mr. Choong_male__0_0_1601_56.4958__S
+644_645_1_3_Baclini, Miss. Eugenie_female_0.75_2_1_2666_19.2583__C
+645_646_1_1_Harper, Mr. Henry Sleeper_male_48.0_1_0_PC 17572_76.7292_D33_C
+646_647_0_3_Cor, Mr. Liudevit_male_19.0_0_0_349231_7.8958__S
+647_648_1_1_Simonius-Blumer, Col. Oberst Alfons_male_56.0_0_0_13213_35.5_A26_C
+648_649_0_3_Willey, Mr. Edward_male__0_0_S.O./P.P. 751_7.55__S
+649_650_1_3_Stanley, Miss. Amy Zillah Elsie_female_23.0_0_0_CA. 2314_7.55__S
+650_651_0_3_Mitkoff, Mr. Mito_male__0_0_349221_7.8958__S
+651_652_1_2_Doling, Miss. Elsie_female_18.0_0_1_231919_23.0__S
+652_653_0_3_Kalvik, Mr. Johannes Halvorsen_male_21.0_0_0_8475_8.4333__S
+653_654_1_3_"O'Leary, Miss. Hanora ""Norah"""_female__0_0_330919_7.8292__Q
+654_655_0_3_"Hegarty, Miss. Hanora ""Nora"""_female_18.0_0_0_365226_6.75__Q
+655_656_0_2_Hickman, Mr. Leonard Mark_male_24.0_2_0_S.O.C. 14879_73.5__S
+656_657_0_3_Radeff, Mr. Alexander_male__0_0_349223_7.8958__S
+657_658_0_3_Bourke, Mrs. John (Catherine)_female_32.0_1_1_364849_15.5__Q
+658_659_0_2_Eitemiller, Mr. George Floyd_male_23.0_0_0_29751_13.0__S
+659_660_0_1_Newell, Mr. Arthur Webster_male_58.0_0_2_35273_113.275_D48_C
+660_661_1_1_Frauenthal, Dr. Henry William_male_50.0_2_0_PC 17611_133.65__S
+661_662_0_3_Badt, Mr. Mohamed_male_40.0_0_0_2623_7.225__C
+662_663_0_1_Colley, Mr. Edward Pomeroy_male_47.0_0_0_5727_25.5875_E58_S
+663_664_0_3_Coleff, Mr. Peju_male_36.0_0_0_349210_7.4958__S
+664_665_1_3_Lindqvist, Mr. Eino William_male_20.0_1_0_STON/O 2. 3101285_7.925__S
+665_666_0_2_Hickman, Mr. Lewis_male_32.0_2_0_S.O.C. 14879_73.5__S
+666_667_0_2_Butler, Mr. Reginald Fenton_male_25.0_0_0_234686_13.0__S
+667_668_0_3_Rommetvedt, Mr. Knud Paust_male__0_0_312993_7.775__S
+668_669_0_3_Cook, Mr. Jacob_male_43.0_0_0_A/5 3536_8.05__S
+669_670_1_1_Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)_female__1_0_19996_52.0_C126_S
+670_671_1_2_Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)_female_40.0_1_1_29750_39.0__S
+671_672_0_1_Davidson, Mr. Thornton_male_31.0_1_0_F.C. 12750_52.0_B71_S
+672_673_0_2_Mitchell, Mr. Henry Michael_male_70.0_0_0_C.A. 24580_10.5__S
+673_674_1_2_Wilhelms, Mr. Charles_male_31.0_0_0_244270_13.0__S
+674_675_0_2_Watson, Mr. Ennis Hastings_male__0_0_239856_0.0__S
+675_676_0_3_Edvardsson, Mr. Gustaf Hjalmar_male_18.0_0_0_349912_7.775__S
+676_677_0_3_Sawyer, Mr. Frederick Charles_male_24.5_0_0_342826_8.05__S
+677_678_1_3_Turja, Miss. Anna Sofia_female_18.0_0_0_4138_9.8417__S
+678_679_0_3_Goodwin, Mrs. Frederick (Augusta Tyler)_female_43.0_1_6_CA 2144_46.9__S
+679_680_1_1_Cardeza, Mr. Thomas Drake Martinez_male_36.0_0_1_PC 17755_512.3292_B51 B53 B55_C
+680_681_0_3_Peters, Miss. Katie_female__0_0_330935_8.1375__Q
+681_682_1_1_Hassab, Mr. Hammad_male_27.0_0_0_PC 17572_76.7292_D49_C
+682_683_0_3_Olsvigen, Mr. Thor Anderson_male_20.0_0_0_6563_9.225__S
+683_684_0_3_Goodwin, Mr. Charles Edward_male_14.0_5_2_CA 2144_46.9__S
+684_685_0_2_Brown, Mr. Thomas William Solomon_male_60.0_1_1_29750_39.0__S
+685_686_0_2_Laroche, Mr. Joseph Philippe Lemercier_male_25.0_1_2_SC/Paris 2123_41.5792__C
+686_687_0_3_Panula, Mr. Jaako Arnold_male_14.0_4_1_3101295_39.6875__S
+687_688_0_3_Dakic, Mr. Branko_male_19.0_0_0_349228_10.1708__S
+688_689_0_3_Fischer, Mr. Eberhard Thelander_male_18.0_0_0_350036_7.7958__S
+689_690_1_1_Madill, Miss. Georgette Alexandra_female_15.0_0_1_24160_211.3375_B5_S
+690_691_1_1_Dick, Mr. Albert Adrian_male_31.0_1_0_17474_57.0_B20_S
+691_692_1_3_Karun, Miss. Manca_female_4.0_0_1_349256_13.4167__C
+692_693_1_3_Lam, Mr. Ali_male__0_0_1601_56.4958__S
+693_694_0_3_Saad, Mr. Khalil_male_25.0_0_0_2672_7.225__C
+694_695_0_1_Weir, Col. John_male_60.0_0_0_113800_26.55__S
+695_696_0_2_Chapman, Mr. Charles Henry_male_52.0_0_0_248731_13.5__S
+696_697_0_3_Kelly, Mr. James_male_44.0_0_0_363592_8.05__S
+697_698_1_3_"Mullens, Miss. Katherine ""Katie"""_female__0_0_35852_7.7333__Q
+698_699_0_1_Thayer, Mr. John Borland_male_49.0_1_1_17421_110.8833_C68_C
+699_700_0_3_Humblen, Mr. Adolf Mathias Nicolai Olsen_male_42.0_0_0_348121_7.65_F G63_S
+700_701_1_1_Astor, Mrs. John Jacob (Madeleine Talmadge Force)_female_18.0_1_0_PC 17757_227.525_C62 C64_C
+701_702_1_1_Silverthorne, Mr. Spencer Victor_male_35.0_0_0_PC 17475_26.2875_E24_S
+702_703_0_3_Barbara, Miss. Saiide_female_18.0_0_1_2691_14.4542__C
+703_704_0_3_Gallagher, Mr. Martin_male_25.0_0_0_36864_7.7417__Q
+704_705_0_3_Hansen, Mr. Henrik Juul_male_26.0_1_0_350025_7.8542__S
+705_706_0_2_"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")"_male_39.0_0_0_250655_26.0__S
+706_707_1_2_"Kelly, Mrs. Florence ""Fannie"""_female_45.0_0_0_223596_13.5__S
+707_708_1_1_Calderhead, Mr. Edward Pennington_male_42.0_0_0_PC 17476_26.2875_E24_S
+708_709_1_1_Cleaver, Miss. Alice_female_22.0_0_0_113781_151.55__S
+709_710_1_3_"Moubarek, Master. Halim Gonios (""William George"")"_male__1_1_2661_15.2458__C
+710_711_1_1_"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")"_female_24.0_0_0_PC 17482_49.5042_C90_C
+711_712_0_1_Klaber, Mr. Herman_male__0_0_113028_26.55_C124_S
+712_713_1_1_Taylor, Mr. Elmer Zebley_male_48.0_1_0_19996_52.0_C126_S
+713_714_0_3_Larsson, Mr. August Viktor_male_29.0_0_0_7545_9.4833__S
+714_715_0_2_Greenberg, Mr. Samuel_male_52.0_0_0_250647_13.0__S
+715_716_0_3_Soholt, Mr. Peter Andreas Lauritz Andersen_male_19.0_0_0_348124_7.65_F G73_S
+716_717_1_1_Endres, Miss. Caroline Louise_female_38.0_0_0_PC 17757_227.525_C45_C
+717_718_1_2_"Troutt, Miss. Edwina Celia ""Winnie"""_female_27.0_0_0_34218_10.5_E101_S
+718_719_0_3_McEvoy, Mr. Michael_male__0_0_36568_15.5__Q
+719_720_0_3_Johnson, Mr. Malkolm Joackim_male_33.0_0_0_347062_7.775__S
+720_721_1_2_"Harper, Miss. Annie Jessie ""Nina"""_female_6.0_0_1_248727_33.0__S
+721_722_0_3_Jensen, Mr. Svend Lauritz_male_17.0_1_0_350048_7.0542__S
+722_723_0_2_Gillespie, Mr. William Henry_male_34.0_0_0_12233_13.0__S
+723_724_0_2_Hodges, Mr. Henry Price_male_50.0_0_0_250643_13.0__S
+724_725_1_1_Chambers, Mr. Norman Campbell_male_27.0_1_0_113806_53.1_E8_S
+725_726_0_3_Oreskovic, Mr. Luka_male_20.0_0_0_315094_8.6625__S
+726_727_1_2_Renouf, Mrs. Peter Henry (Lillian Jefferys)_female_30.0_3_0_31027_21.0__S
+727_728_1_3_Mannion, Miss. Margareth_female__0_0_36866_7.7375__Q
+728_729_0_2_Bryhl, Mr. Kurt Arnold Gottfrid_male_25.0_1_0_236853_26.0__S
+729_730_0_3_Ilmakangas, Miss. Pieta Sofia_female_25.0_1_0_STON/O2. 3101271_7.925__S
+730_731_1_1_Allen, Miss. Elisabeth Walton_female_29.0_0_0_24160_211.3375_B5_S
+731_732_0_3_Hassan, Mr. Houssein G N_male_11.0_0_0_2699_18.7875__C
+732_733_0_2_Knight, Mr. Robert J_male__0_0_239855_0.0__S
+733_734_0_2_Berriman, Mr. William John_male_23.0_0_0_28425_13.0__S
+734_735_0_2_Troupiansky, Mr. Moses Aaron_male_23.0_0_0_233639_13.0__S
+735_736_0_3_Williams, Mr. Leslie_male_28.5_0_0_54636_16.1__S
+736_737_0_3_Ford, Mrs. Edward (Margaret Ann Watson)_female_48.0_1_3_W./C. 6608_34.375__S
+737_738_1_1_Lesurer, Mr. Gustave J_male_35.0_0_0_PC 17755_512.3292_B101_C
+738_739_0_3_Ivanoff, Mr. Kanio_male__0_0_349201_7.8958__S
+739_740_0_3_Nankoff, Mr. Minko_male__0_0_349218_7.8958__S
+740_741_1_1_Hawksford, Mr. Walter James_male__0_0_16988_30.0_D45_S
+741_742_0_1_Cavendish, Mr. Tyrell William_male_36.0_1_0_19877_78.85_C46_S
+742_743_1_1_"Ryerson, Miss. Susan Parker ""Suzette"""_female_21.0_2_2_PC 17608_262.375_B57 B59 B63 B66_C
+743_744_0_3_McNamee, Mr. Neal_male_24.0_1_0_376566_16.1__S
+744_745_1_3_Stranden, Mr. Juho_male_31.0_0_0_STON/O 2. 3101288_7.925__S
+745_746_0_1_Crosby, Capt. Edward Gifford_male_70.0_1_1_WE/P 5735_71.0_B22_S
+746_747_0_3_Abbott, Mr. Rossmore Edward_male_16.0_1_1_C.A. 2673_20.25__S
+747_748_1_2_Sinkkonen, Miss. Anna_female_30.0_0_0_250648_13.0__S
+748_749_0_1_Marvin, Mr. Daniel Warner_male_19.0_1_0_113773_53.1_D30_S
+749_750_0_3_Connaghton, Mr. Michael_male_31.0_0_0_335097_7.75__Q
+750_751_1_2_Wells, Miss. Joan_female_4.0_1_1_29103_23.0__S
+751_752_1_3_Moor, Master. Meier_male_6.0_0_1_392096_12.475_E121_S
+752_753_0_3_Vande Velde, Mr. Johannes Joseph_male_33.0_0_0_345780_9.5__S
+753_754_0_3_Jonkoff, Mr. Lalio_male_23.0_0_0_349204_7.8958__S
+754_755_1_2_Herman, Mrs. Samuel (Jane Laver)_female_48.0_1_2_220845_65.0__S
+755_756_1_2_Hamalainen, Master. Viljo_male_0.67_1_1_250649_14.5__S
+756_757_0_3_Carlsson, Mr. August Sigfrid_male_28.0_0_0_350042_7.7958__S
+757_758_0_2_Bailey, Mr. Percy Andrew_male_18.0_0_0_29108_11.5__S
+758_759_0_3_Theobald, Mr. Thomas Leonard_male_34.0_0_0_363294_8.05__S
+759_760_1_1_Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)_female_33.0_0_0_110152_86.5_B77_S
+760_761_0_3_Garfirth, Mr. John_male__0_0_358585_14.5__S
+761_762_0_3_Nirva, Mr. Iisakki Antino Aijo_male_41.0_0_0_SOTON/O2 3101272_7.125__S
+762_763_1_3_Barah, Mr. Hanna Assi_male_20.0_0_0_2663_7.2292__C
+763_764_1_1_Carter, Mrs. William Ernest (Lucile Polk)_female_36.0_1_2_113760_120.0_B96 B98_S
+764_765_0_3_Eklund, Mr. Hans Linus_male_16.0_0_0_347074_7.775__S
+765_766_1_1_Hogeboom, Mrs. John C (Anna Andrews)_female_51.0_1_0_13502_77.9583_D11_S
+766_767_0_1_Brewe, Dr. Arthur Jackson_male__0_0_112379_39.6__C
+767_768_0_3_Mangan, Miss. Mary_female_30.5_0_0_364850_7.75__Q
+768_769_0_3_Moran, Mr. Daniel J_male__1_0_371110_24.15__Q
+769_770_0_3_Gronnestad, Mr. Daniel Danielsen_male_32.0_0_0_8471_8.3625__S
+770_771_0_3_Lievens, Mr. Rene Aime_male_24.0_0_0_345781_9.5__S
+771_772_0_3_Jensen, Mr. Niels Peder_male_48.0_0_0_350047_7.8542__S
+772_773_0_2_Mack, Mrs. (Mary)_female_57.0_0_0_S.O./P.P. 3_10.5_E77_S
+773_774_0_3_Elias, Mr. Dibo_male__0_0_2674_7.225__C
+774_775_1_2_Hocking, Mrs. Elizabeth (Eliza Needs)_female_54.0_1_3_29105_23.0__S
+775_776_0_3_Myhrman, Mr. Pehr Fabian Oliver Malkolm_male_18.0_0_0_347078_7.75__S
+776_777_0_3_Tobin, Mr. Roger_male__0_0_383121_7.75_F38_Q
+777_778_1_3_Emanuel, Miss. Virginia Ethel_female_5.0_0_0_364516_12.475__S
+778_779_0_3_Kilgannon, Mr. Thomas J_male__0_0_36865_7.7375__Q
+779_780_1_1_Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)_female_43.0_0_1_24160_211.3375_B3_S
+780_781_1_3_Ayoub, Miss. Banoura_female_13.0_0_0_2687_7.2292__C
+781_782_1_1_Dick, Mrs. Albert Adrian (Vera Gillespie)_female_17.0_1_0_17474_57.0_B20_S
+782_783_0_1_Long, Mr. Milton Clyde_male_29.0_0_0_113501_30.0_D6_S
+783_784_0_3_Johnston, Mr. Andrew G_male__1_2_W./C. 6607_23.45__S
+784_785_0_3_Ali, Mr. William_male_25.0_0_0_SOTON/O.Q. 3101312_7.05__S
+785_786_0_3_Harmer, Mr. Abraham (David Lishin)_male_25.0_0_0_374887_7.25__S
+786_787_1_3_Sjoblom, Miss. Anna Sofia_female_18.0_0_0_3101265_7.4958__S
+787_788_0_3_Rice, Master. George Hugh_male_8.0_4_1_382652_29.125__Q
+788_789_1_3_Dean, Master. Bertram Vere_male_1.0_1_2_C.A. 2315_20.575__S
+789_790_0_1_Guggenheim, Mr. Benjamin_male_46.0_0_0_PC 17593_79.2_B82 B84_C
+790_791_0_3_"Keane, Mr. Andrew ""Andy"""_male__0_0_12460_7.75__Q
+791_792_0_2_Gaskell, Mr. Alfred_male_16.0_0_0_239865_26.0__S
+792_793_0_3_Sage, Miss. Stella Anna_female__8_2_CA. 2343_69.55__S
+793_794_0_1_Hoyt, Mr. William Fisher_male__0_0_PC 17600_30.6958__C
+794_795_0_3_Dantcheff, Mr. Ristiu_male_25.0_0_0_349203_7.8958__S
+795_796_0_2_Otter, Mr. Richard_male_39.0_0_0_28213_13.0__S
+796_797_1_1_Leader, Dr. Alice (Farnham)_female_49.0_0_0_17465_25.9292_D17_S
+797_798_1_3_Osman, Mrs. Mara_female_31.0_0_0_349244_8.6833__S
+798_799_0_3_Ibrahim Shawah, Mr. Yousseff_male_30.0_0_0_2685_7.2292__C
+799_800_0_3_Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)_female_30.0_1_1_345773_24.15__S
+800_801_0_2_Ponesell, Mr. Martin_male_34.0_0_0_250647_13.0__S
+801_802_1_2_Collyer, Mrs. Harvey (Charlotte Annie Tate)_female_31.0_1_1_C.A. 31921_26.25__S
+802_803_1_1_Carter, Master. William Thornton II_male_11.0_1_2_113760_120.0_B96 B98_S
+803_804_1_3_Thomas, Master. Assad Alexander_male_0.42_0_1_2625_8.5167__C
+804_805_1_3_Hedman, Mr. Oskar Arvid_male_27.0_0_0_347089_6.975__S
+805_806_0_3_Johansson, Mr. Karl Johan_male_31.0_0_0_347063_7.775__S
+806_807_0_1_Andrews, Mr. Thomas Jr_male_39.0_0_0_112050_0.0_A36_S
+807_808_0_3_Pettersson, Miss. Ellen Natalia_female_18.0_0_0_347087_7.775__S
+808_809_0_2_Meyer, Mr. August_male_39.0_0_0_248723_13.0__S
+809_810_1_1_Chambers, Mrs. Norman Campbell (Bertha Griggs)_female_33.0_1_0_113806_53.1_E8_S
+810_811_0_3_Alexander, Mr. William_male_26.0_0_0_3474_7.8875__S
+811_812_0_3_Lester, Mr. James_male_39.0_0_0_A/4 48871_24.15__S
+812_813_0_2_Slemen, Mr. Richard James_male_35.0_0_0_28206_10.5__S
+813_814_0_3_Andersson, Miss. Ebba Iris Alfrida_female_6.0_4_2_347082_31.275__S
+814_815_0_3_Tomlin, Mr. Ernest Portage_male_30.5_0_0_364499_8.05__S
+815_816_0_1_Fry, Mr. Richard_male__0_0_112058_0.0_B102_S
+816_817_0_3_Heininen, Miss. Wendla Maria_female_23.0_0_0_STON/O2. 3101290_7.925__S
+817_818_0_2_Mallet, Mr. Albert_male_31.0_1_1_S.C./PARIS 2079_37.0042__C
+818_819_0_3_Holm, Mr. John Fredrik Alexander_male_43.0_0_0_C 7075_6.45__S
+819_820_0_3_Skoog, Master. Karl Thorsten_male_10.0_3_2_347088_27.9__S
+820_821_1_1_Hays, Mrs. Charles Melville (Clara Jennings Gregg)_female_52.0_1_1_12749_93.5_B69_S
+821_822_1_3_Lulic, Mr. Nikola_male_27.0_0_0_315098_8.6625__S
+822_823_0_1_Reuchlin, Jonkheer. John George_male_38.0_0_0_19972_0.0__S
+823_824_1_3_Moor, Mrs. (Beila)_female_27.0_0_1_392096_12.475_E121_S
+824_825_0_3_Panula, Master. Urho Abraham_male_2.0_4_1_3101295_39.6875__S
+825_826_0_3_Flynn, Mr. John_male__0_0_368323_6.95__Q
+826_827_0_3_Lam, Mr. Len_male__0_0_1601_56.4958__S
+827_828_1_2_Mallet, Master. Andre_male_1.0_0_2_S.C./PARIS 2079_37.0042__C
+828_829_1_3_McCormack, Mr. Thomas Joseph_male__0_0_367228_7.75__Q
+829_830_1_1_Stone, Mrs. George Nelson (Martha Evelyn)_female_62.0_0_0_113572_80.0_B28_
+830_831_1_3_Yasbeck, Mrs. Antoni (Selini Alexander)_female_15.0_1_0_2659_14.4542__C
+831_832_1_2_Richards, Master. George Sibley_male_0.83_1_1_29106_18.75__S
+832_833_0_3_Saad, Mr. Amin_male__0_0_2671_7.2292__C
+833_834_0_3_Augustsson, Mr. Albert_male_23.0_0_0_347468_7.8542__S
+834_835_0_3_Allum, Mr. Owen George_male_18.0_0_0_2223_8.3__S
+835_836_1_1_Compton, Miss. Sara Rebecca_female_39.0_1_1_PC 17756_83.1583_E49_C
+836_837_0_3_Pasic, Mr. Jakob_male_21.0_0_0_315097_8.6625__S
+837_838_0_3_Sirota, Mr. Maurice_male__0_0_392092_8.05__S
+838_839_1_3_Chip, Mr. Chang_male_32.0_0_0_1601_56.4958__S
+839_840_1_1_Marechal, Mr. Pierre_male__0_0_11774_29.7_C47_C
+840_841_0_3_Alhomaki, Mr. Ilmari Rudolf_male_20.0_0_0_SOTON/O2 3101287_7.925__S
+841_842_0_2_Mudd, Mr. Thomas Charles_male_16.0_0_0_S.O./P.P. 3_10.5__S
+842_843_1_1_Serepeca, Miss. Augusta_female_30.0_0_0_113798_31.0__C
+843_844_0_3_Lemberopolous, Mr. Peter L_male_34.5_0_0_2683_6.4375__C
+844_845_0_3_Culumovic, Mr. Jeso_male_17.0_0_0_315090_8.6625__S
+845_846_0_3_Abbing, Mr. Anthony_male_42.0_0_0_C.A. 5547_7.55__S
+846_847_0_3_Sage, Mr. Douglas Bullen_male__8_2_CA. 2343_69.55__S
+847_848_0_3_Markoff, Mr. Marin_male_35.0_0_0_349213_7.8958__C
+848_849_0_2_Harper, Rev. John_male_28.0_0_1_248727_33.0__S
+849_850_1_1_Goldenberg, Mrs. Samuel L (Edwiga Grabowska)_female__1_0_17453_89.1042_C92_C
+850_851_0_3_Andersson, Master. Sigvard Harald Elias_male_4.0_4_2_347082_31.275__S
+851_852_0_3_Svensson, Mr. Johan_male_74.0_0_0_347060_7.775__S
+852_853_0_3_Boulos, Miss. Nourelain_female_9.0_1_1_2678_15.2458__C
+853_854_1_1_Lines, Miss. Mary Conover_female_16.0_0_1_PC 17592_39.4_D28_S
+854_855_0_2_Carter, Mrs. Ernest Courtenay (Lilian Hughes)_female_44.0_1_0_244252_26.0__S
+855_856_1_3_Aks, Mrs. Sam (Leah Rosen)_female_18.0_0_1_392091_9.35__S
+856_857_1_1_Wick, Mrs. George Dennick (Mary Hitchcock)_female_45.0_1_1_36928_164.8667__S
+857_858_1_1_Daly, Mr. Peter Denis _male_51.0_0_0_113055_26.55_E17_S
+858_859_1_3_Baclini, Mrs. Solomon (Latifa Qurban)_female_24.0_0_3_2666_19.2583__C
+859_860_0_3_Razi, Mr. Raihed_male__0_0_2629_7.2292__C
+860_861_0_3_Hansen, Mr. Claus Peter_male_41.0_2_0_350026_14.1083__S
+861_862_0_2_Giles, Mr. Frederick Edward_male_21.0_1_0_28134_11.5__S
+862_863_1_1_Swift, Mrs. Frederick Joel (Margaret Welles Barron)_female_48.0_0_0_17466_25.9292_D17_S
+863_864_0_3_"Sage, Miss. Dorothy Edith ""Dolly"""_female__8_2_CA. 2343_69.55__S
+864_865_0_2_Gill, Mr. John William_male_24.0_0_0_233866_13.0__S
+865_866_1_2_Bystrom, Mrs. (Karolina)_female_42.0_0_0_236852_13.0__S
+866_867_1_2_Duran y More, Miss. Asuncion_female_27.0_1_0_SC/PARIS 2149_13.8583__C
+867_868_0_1_Roebling, Mr. Washington Augustus II_male_31.0_0_0_PC 17590_50.4958_A24_S
+868_869_0_3_van Melkebeke, Mr. Philemon_male__0_0_345777_9.5__S
+869_870_1_3_Johnson, Master. Harold Theodor_male_4.0_1_1_347742_11.1333__S
+870_871_0_3_Balkic, Mr. Cerin_male_26.0_0_0_349248_7.8958__S
+871_872_1_1_Beckwith, Mrs. Richard Leonard (Sallie Monypeny)_female_47.0_1_1_11751_52.5542_D35_S
+872_873_0_1_Carlsson, Mr. Frans Olof_male_33.0_0_0_695_5.0_B51 B53 B55_S
+873_874_0_3_Vander Cruyssen, Mr. Victor_male_47.0_0_0_345765_9.0__S
+874_875_1_2_Abelson, Mrs. Samuel (Hannah Wizosky)_female_28.0_1_0_P/PP 3381_24.0__C
+875_876_1_3_"Najib, Miss. Adele Kiamie ""Jane"""_female_15.0_0_0_2667_7.225__C
+876_877_0_3_Gustafsson, Mr. Alfred Ossian_male_20.0_0_0_7534_9.8458__S
+877_878_0_3_Petroff, Mr. Nedelio_male_19.0_0_0_349212_7.8958__S
+878_879_0_3_Laleff, Mr. Kristo_male__0_0_349217_7.8958__S
+879_880_1_1_Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)_female_56.0_0_1_11767_83.1583_C50_C
+880_881_1_2_Shelley, Mrs. William (Imanita Parrish Hall)_female_25.0_0_1_230433_26.0__S
+881_882_0_3_Markun, Mr. Johann_male_33.0_0_0_349257_7.8958__S
+882_883_0_3_Dahlberg, Miss. Gerda Ulrika_female_22.0_0_0_7552_10.5167__S
+883_884_0_2_Banfield, Mr. Frederick James_male_28.0_0_0_C.A./SOTON 34068_10.5__S
+884_885_0_3_Sutehall, Mr. Henry Jr_male_25.0_0_0_SOTON/OQ 392076_7.05__S
+885_886_0_3_Rice, Mrs. William (Margaret Norton)_female_39.0_0_5_382652_29.125__Q
+886_887_0_2_Montvila, Rev. Juozas_male_27.0_0_0_211536_13.0__S
+887_888_1_1_Graham, Miss. Margaret Edith_female_19.0_0_0_112053_30.0_B42_S
+888_889_0_3_"Johnston, Miss. Catherine Helen ""Carrie"""_female__1_2_W./C. 6607_23.45__S
+889_890_1_1_Behr, Mr. Karl Howell_male_26.0_0_0_111369_30.0_C148_C
+890_891_0_3_Dooley, Mr. Patrick_male_32.0_0_0_370376_7.75__Q
