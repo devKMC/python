@@ -13,9 +13,7 @@
 #requests를 하기위한 설치
 #pip install requests
 
-
-
-#  요청을 하면 반드시 response 로옴 / 존재하는 웹페이지의 경우
+# 요청을 하면 반드시 response 로옴 / 존재하는 웹페이지의 경우
 # RESPONSE 100 추가 요청 기다림
 # RESPONSE 200 요청 성공
 # RESPONSE 300 리소스 위치 바뀜
@@ -23,11 +21,13 @@
 # RESPONSE 500 응답자(서버) 오류
 # http response code : 구글에 검색시 오류에대한 정확한 내용을 볼 수 있음
 
+# 요청
 import requests  
 from bs4 import BeautifulSoup
 
 URL = 'https://naver.com'
 
+#응답
 response = requests.get(URL)  
 
 
@@ -72,7 +72,7 @@ for news_title_element in news_title_elements:
     print(title)
 time.sleep(1)
 
-driver.back()
+driver.back() #뒤로가기
 time.sleep(2)
 
 image_button = driver.find_element(By.CSS_SELECTOR, '#lnb > div.lnb_group > div > div.lnb_nav_area._nav_area_root > div > div.api_flicking_wrap._conveyer_root > div:nth-child(1) > a')
